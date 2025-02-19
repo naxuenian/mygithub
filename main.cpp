@@ -13,7 +13,7 @@ int main() {
     cout << "------------" << endl;
 
     int* pa = &a;
-
+    int* pb = &b;
     system("pause");
     return 0;
 }
