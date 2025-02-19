@@ -12,6 +12,8 @@ int main() {
     cout << "a=" << a << "  b=" << b << endl;
     cout << "------------" << endl;
 
+    int* pa = &a;
+
     system("pause");
     return 0;
 }
